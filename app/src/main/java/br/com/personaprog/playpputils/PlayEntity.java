@@ -17,6 +17,7 @@ public class PlayEntity {
   private int id;
   private boolean isativo = true;
   public PointF pos ;
+  public PointF posw ;
   private RectF boxPad ;
   public RectF boxBound;
   public PlayMundo mundo;

@@ -1,0 +1,12 @@
+
+assets/  
+bin/  
+.classpath  
+gen/  
+.gitignore
+.project  
+project.properties  
+res  
+.settings  
+src
+/gen/
